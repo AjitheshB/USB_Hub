@@ -3,12 +3,13 @@ A simple USB Hub featuring 1 upstream port and 4 downstream ports compatible for
 
 - My hub features an upstream USB-C port, with 2 downstream USB-A and 2 downstream USB-C ports
 
+- Schematics:
 <img width="608" height="312" alt="image" src="https://github.com/user-attachments/assets/739e5563-6cf3-4501-9f35-55b3dc37b16e" />
 
-
+- PCB Design:
 <img width="575" height="297" alt="image" src="https://github.com/user-attachments/assets/2dd5a691-c484-4515-ad9c-b50b8179eade" />
 
-
+- 3D Images:
 <img width="802" height="490" alt="image" src="https://github.com/user-attachments/assets/f3d77713-b494-401c-bc7e-2b9e54fc01f1" />
 
 
