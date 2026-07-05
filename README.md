@@ -1,6 +1,8 @@
 # USB_Hub
 A simple USB Hub featuring 1 upstream port and 4 downstream ports compatible for USB-A and USB-C ports
 
+I'm buying the PCB from JLCPCB and the parts from LCSC since I couldn't get the PCBA from JLCPCB because some of the parts were out of stock so I'm going to solder them myself
+
 - My hub features an upstream USB-C port, with 2 downstream USB-A and 2 downstream USB-C ports
 
 - Schematics:
